@@ -23,7 +23,7 @@ I have completed ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
     * Worked on problems of Recursion and created a video to share my knowledge
         * https://www.youtube.com/watch?v=uJLLVYN5iME&t=5s
     * Learned SemanticHTML
-    
+    * Worked on NPM scripts
 
 
 
